@@ -1,4 +1,4 @@
-# Wargame-RCON
+# Wargame-Web-RCON
 
 [Online](http://wrd.endless.ws/)
 
