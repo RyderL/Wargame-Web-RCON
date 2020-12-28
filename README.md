@@ -1,5 +1,7 @@
-# Wargame-Web-RCON
+# Wargame-RCON
 
 [Online](http://wrd.endless.ws/)
 
-[Download](http://wrd.endless.ws/download/Wargame-RCON-win32-x64.zip)
+[Windows Setup](http://wrd.endless.ws/download/Wargame-RCON-1.0.0 Setup.exe)
+
+[Windows Portable](http://wrd.endless.ws/download/Wargame-RCON-win32-x64.zip)
