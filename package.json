@@ -1,0 +1,16 @@
+{
+  "name": "wargame-web-rcon",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Eric Li",
+  "license": "GPL",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  }
+}
